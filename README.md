@@ -1,4 +1,4 @@
-# Competition Instructions
+# State Farm Competition Instructions
 ## Prerequisites
 * Install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 * Create a [GitHub account](http://github.com)
