@@ -33,8 +33,9 @@
 1. Click "View Deployment".
 1. Verify the game looks correct, then copy the url for the page.
 1. Navigate to the original game you forked from. https://github.com/StateFarmASUGameCon/PhaserPrototype
-1. Click the "Issues" button at the top
-1. Create a "New Issue"
+1. Click the "Issues" button at the top.
+1. Create a "New Issue".
+1. Click "Get Started" next to "Game Submission".
 1. Provide the name of your game, the link you copied, and a link to your repository.
 1. Submit the issue, and pay attention to notifications on your issue as this is how we will contact the winner.
 1. Submission cutoff is 7:30, and we plan on announcing the winner by 8:00.
