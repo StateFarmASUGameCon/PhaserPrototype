@@ -35,8 +35,9 @@
 1. Navigate to the original game you forked from. https://github.com/StateFarmASUGameCon/PhaserPrototype
 1. Click the "Issues" button at the top
 1. Create a "New Issue"
-1. Provide the name of your game, the link you copied, a link to your repository, and some way to contact you should you win.
-1. Submit the issue and you're done.
+1. Provide the name of your game, the link you copied, and a link to your repository.
+1. Submit the issue, and pay attention to notifications on your issue as this is how we will contact the winner.
+1. Submission cutoff is 7:30, and we plan on announcing the winner by 8:00.
 
 ## Basic git commands
 * `git clone` - downloads the code repository to your local workstation.
