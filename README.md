@@ -2,6 +2,7 @@
 ## Prerequisites
 * Install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 * Create a [GitHub account](http://github.com)
+* Install [Visual Studio Code](https://code.visualstudio.com/) and the "Live Server" extension (recommended, but not required)
 
 ## Getting Started Instructions
 1. Navigate to https://github.com/StateFarmASUGameCon/BaseGame in your browser.
@@ -21,8 +22,13 @@
 1. You can now start modifying the code on your workstation.
 
 ## View game locally
+1. Open the folder containing the code within Visual Studio Code.
+1. Open the `index.html` file.
+1. Click "Go Live" at the bottom.
+1. Your game should now appear in your browser.
 
 ## Basic git commands
+
 
 ## Submission Instructions
 1. Push changes to the master branch of your repository. See basic git commands above, or talk to one of us if you need help.
