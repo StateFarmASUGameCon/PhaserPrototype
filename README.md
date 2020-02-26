@@ -27,11 +27,8 @@
 1. Click "Go Live" at the bottom.
 1. Your game should now appear in your browser.
 
-## Basic git commands
-
-
 ## Submission Instructions
-1. Push changes to the master branch of your repository. See basic git commands above, or talk to one of us if you need help.
+1. Push changes to the master branch of your repository. See basic git commands below, or talk to one of us if you need help.
 1. Verify your changes have been pushed by going to the home page of your repository, and clicking the "environment" button.
 1. Click "View Deployment".
 1. Verify the game looks correct, then copy the url for the page.
@@ -40,6 +37,13 @@
 1. Create a "New Issue"
 1. Provide the name of your game, the link you copied, a link to your repository, and some way to contact you should you win.
 1. Submit the issue and you're done.
+
+## Basic git commands
+* `git clone` - downloads the code repository to your local workstation.
+* `git add` - stages changed files
+* `git commit` - commits the files you've staged
+* `git push` - pushed the commit to the remote repository
+* More git commands as well as a detailed explanation of these can be found [here](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html). Let us know if you need help with these.
 
 Testing out the [Phaser](https://github.com/photonstorm/phaser) game framework.
 
