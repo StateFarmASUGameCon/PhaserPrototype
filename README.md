@@ -4,7 +4,7 @@
 * Create a [GitHub account](http://github.com)
 * Install [Visual Studio Code](https://code.visualstudio.com/) and the "Live Server" extension (recommended, but not required)
 
-## Getting Started Instructions
+## Getting Started
 1. Navigate to https://github.com/StateFarmASUGameCon/BaseGame in your browser.
 1. Click the "Fork" button in the top right corner. Choose your account as the namespace to fork to. After a few seconds you should be redirected to the new repository.
 1. Click the "Settings" button at the top.
