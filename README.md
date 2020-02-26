@@ -32,7 +32,7 @@
 1. Verify your changes have been pushed by going to the home page of your repository, and clicking the "environment" button.
 1. Click "View Deployment".
 1. Verify the game looks correct, then copy the url for the page.
-1. Navigate to the original game you forked from. https://github.com/StateFarmASUGameCon/PhaserPrototype
+1. Navigate to the original game you forked from. https://github.com/StateFarmASUGameCon/BaseGame
 1. Click the "Issues" button at the top.
 1. Create a "New Issue".
 1. Click "Get Started" next to "Game Submission".
